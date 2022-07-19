@@ -82,6 +82,8 @@ The analysis was summarized into an infograph that showed the trend of the mNDWI
     <img src="./plots/water_037.png" alt="HindiyaBarrage" width="750"><br>
     <i>Normalized Difference Water Index (mNDWI)</i><br>
     <i>1 month temporal resolution</i><br>
-</p>
+</p>.
 
 Please, play the video below for the summary infograph.
+
+[![Watch the video](./plots/play.png)](https://drive.google.com/file/d/11LjTLeMFhUQi4eDKy_k9dOVca1ueQh_d/view?usp=sharing)
