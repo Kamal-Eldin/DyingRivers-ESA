@@ -1,6 +1,6 @@
 # DyingRivers-ESA
 ## INTRODUCTION
-The Space Hubs Network and the European Space Agency (ESA) organized an open challenge; "AI4EARTH" to utilize earth observation data in analyzing the human impact on earth. This project herein, uses data from mulitple satellite missions to examine the state of one of the oldest rivers on the planet; the Euphrates.
+The **Space Hubs Network** and the **European Space Agency (ESA)** organized an open challenge; "AI4EARTH" to utilize earth observation data in analyzing the human impact on earth. This project herein, uses data from mulitple satellite missions to examine the state of one of the oldest rivers on the planet; the Euphrates.
 
 Walkthroughs:
 1. Sentinel Hub data acquisition<br>
