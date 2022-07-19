@@ -2,8 +2,7 @@
 ## INTRODUCTION
 The **Space Hubs Network** and the **European Space Agency (ESA)** organized an open challenge; "AI4EARTH" to utilize earth observation data in analyzing the human impact on earth. This project herein, uses data from mulitple satellite missions to examine the state of one of the oldest rivers on the planet; the Euphrates.
 
-Walkthroughs:
-1. Sentinel Hub data acquisition<br>
+Walkthroughs:<br>1. Sentinel Hub data acquisition<br>
    <a href="https://colab.research.google.com/drive/1YxAxz_6iASgiZ2D-VxeIWBKZclORNwkX?authuser=1" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><br>
