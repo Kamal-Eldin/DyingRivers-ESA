@@ -1,0 +1,2 @@
+# DyingRivers-ESA
+This repo showcases the utilization of earth observation (EO) imagery to analyze the state of the Euphrates river across 4 decades. The project is part of the AI4Earth challenge organized by the Space Hubs Network and the European Space Agency (ESA).  The analysis included acquiring EO imagery through Sentinel Hub and calculating a group of remotes sensing indices to summarize the development of the Hindiya Barrage segment of the Euphrates basin.
