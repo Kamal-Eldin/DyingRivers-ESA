@@ -6,15 +6,15 @@ Walkthroughs:
 1. Sentinel Hub data acquisition<br>
    <a href="https://colab.research.google.com/drive/1YxAxz_6iASgiZ2D-VxeIWBKZclORNwkX?authuser=1" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+</a><br>
 2. Remote sensing indicies analysis<br>
    <a href="https://colab.research.google.com/drive/1aFctzWSIeyyxmMxOvfsDx7vQgxM8NtJv?authuser=1" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+</a><br>
 3. Output statistics<br>
    <a href="https://colab.research.google.com/drive/1IFs-qtVHmP5ZnkreJRF1D5ZGYdXuI-Jx?authuser=1" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+</a><br>
 
 
 ## PROBLEM STATMENT
@@ -46,10 +46,10 @@ Collection Landsat 8 L1
 Collection: sentinel-2-l1c
 
 <p align= 'center'>
-    <img src="./plots/Landsat_4_5.png" alt="HindiyaBarrage" width="500"><br>
-    <i>Hindiya barrage: Landsat 4 & 5 missions</i>
-    <img src="./plots/Sent_RGB.png" alt="HindiyaBarrage" width="460"><br>
-    <i>Sentinel-2 RGB composite</i>
+    <img src="./plots/Landsat_4_5.png" alt="HindiyaBarrage" width="750"><br>
+    <i>Hindiya barrage: Landsat 4 & 5 missions</i><br>
+    <img src="./plots/Sent_RGB.png" alt="HindiyaBarrage" width="600"><br>
+    <i>Sentinel-2 RGB composite</i><br>
 </p>
 
 
@@ -70,7 +70,7 @@ Using the mean-centered image above the following remote sensing indicies were c
 *where NIR is near infra-red and SWIR is Short wave infra-red of the electromagnetic spectrum*.
 
 <p align= 'center'>
-    <img src="./plots/mNDWI.png" alt="mNDWI" width="600"><br>
+    <img src="./plots/mNDWI.png" alt="mNDWI" width="800"><br>
     <i>Normalized Difference Water Index (mNDWI)</i><br>
     <i>1 month temporal resolution</i><br>
 </p>
@@ -79,7 +79,7 @@ Using the mean-centered image above the following remote sensing indicies were c
 The analysis was summarized into an infograph that showed the trend of the mNDWI over 37 years with at a 1 month resolution.
 
 <p align= 'center'>
-    <img src="./plots/water_037.png" alt="HindiyaBarrage" width="600"><br>
+    <img src="./plots/water_037.png" alt="HindiyaBarrage" width="750"><br>
     <i>Normalized Difference Water Index (mNDWI)</i><br>
     <i>1 month temporal resolution</i><br>
 </p>
