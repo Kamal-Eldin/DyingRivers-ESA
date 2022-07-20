@@ -53,7 +53,7 @@ Collection: sentinel-2-l1c
     <img src="./plots/Sent_RGB.png" alt="HindiyaBarrage" width="350">
     <img src="./plots/water-extent.png" alt="HindiyaBarrage" width="360"><br>
     <i><b>Left:</b> Sentinel-2 RGB composite</i>
-    <i><b>Right:</b> River Surface Water Extent (SwE)</i><br>
+    <i><b>Right:</b> River Surface Water Extent (SWE)</i><br>
 </p>
 
 ## REMOTE SENSING INDICIES
