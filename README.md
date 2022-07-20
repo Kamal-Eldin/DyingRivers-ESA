@@ -47,10 +47,14 @@ Collection: sentinel-2-l1c
 <p align= 'center'>
     <img src="./plots/Landsat_4_5.png" alt="HindiyaBarrage" width="750"><br>
     <i>Hindiya barrage: Landsat 4 & 5 missions</i><br>
-    <img src="./plots/Sent_RGB.png" alt="HindiyaBarrage" width="600"><br>
-    <i>Sentinel-2 RGB composite</i><br>
 </p>
 
+<p align= 'center'>
+    <img src="./plots/Sent_RGB.png" alt="HindiyaBarrage" width="350">
+    <img src="./plots/water-extent.png" alt="HindiyaBarrage" width="360"><br>
+    <i><b>Left:</b> Sentinel-2 RGB composite</i>
+    <i><b>Right:</b> River Surface Water Extent (SwE)</i><br>
+</p>
 
 ## REMOTE SENSING INDICIES
 All imagery ran through a simple preprocessing pipline to extract the ROI square boundary and to mean center the image.<br>
@@ -83,6 +87,6 @@ The analysis was summarized into an infograph that showed the trend of the mNDWI
     <i>1 month temporal resolution</i><br>
 </p>.
 
-Please, play the video below for the summary infograph.
+### **OUTPUT INFOGRAPH:** Play the video below.
 
 [![Watch the video](./plots/play.png)](https://drive.google.com/file/d/11LjTLeMFhUQi4eDKy_k9dOVca1ueQh_d/view?usp=sharing)
